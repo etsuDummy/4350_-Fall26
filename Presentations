@@ -11,15 +11,15 @@ Lifecycle Models and Process
 
 1.	Kanban (Software Development)	- Gavin Gizzie 002
 
-2.	Crystal (Software Development)	- Marcus Patton | 002, Camden Brunsma 002
+2.	Crystal (Software Development)	- Marcus Patton | 002, Camden Brunsma 002 (Camden Brunsma https://www.youtube.com/watch?v=vzvz2LRYPSw&t=1s)
 
 3.	Team Software Process and Personal Software Process -  
 
-4.a.	Build Automation - Jacob Whaley 001, Toan Nguyen 002
+4.a.	Build Automation - Jacob Whaley 001, Toan Nguyen 002 (https://youtu.be/rgs5DFQ3brU)
 
 4.b. 	CI/CD Pipeline - Akmal Arifov 002, Brody Laws 002
 
-4.c Azure DevOps - Elijah Cox & Nikki Clark 002
+4.c Azure DevOps - Elijah Cox & Nikki Clark 002 https://youtu.be/AMTQ6LkcRjo 
 
 Project Management and Professional Practice
 5.	Risk Management - Ashley Johns 002, Team Up: (Cody Slaughter & Ava Valente 002 - https://youtu.be/asQ-9EKphCc)
@@ -41,7 +41,7 @@ Software Architectures and Tools
 
 12.	Infrastructure as a Service	-  Augustus Shell | 002
 
-13.	Platform as a Service	- 
+13.	Platform as a Service	- Nathaniel Mullins (002)
 
 14.	Docker  -  Derek Depew, Derek Tapp 002 (https://youtu.be/niIpi-jAb4o)
 
@@ -51,7 +51,7 @@ Software Architectures and Tools
 
 17.	Splunk (for DevOps) -  Cayleigh Shaw 001 (https://youtu.be/NY9ziVRO2aU)
 
-18.	Selenium -  Samuel Deaton|002
+18.	Selenium -  Samuel Deaton|002 (https://youtu.be/jGHEqJ29Kf0)
 
 19.	AWS or Azure -  Brandon Bartley 002, Brady Loos 002
 
@@ -70,7 +70,8 @@ Development Paradigms and Testing
 AI in SE
 24. AI for code completion - CJ Parham 002, Christian Mills 001
 
-25. AI for code creation (where the AI writes all the code) - Timothy Stout, Brandon Garrison 001 (https://youtu.be/kDoPBZX1k-g)
+25. AI for code creation (where the AI writes all the code) - Timothy Stout https://youtu.be/3tHlLTE_AiE , Brandon Garrison 001 (https://youtu.be/kDoPBZX1k-g)
+
                  
 26. AI for code analysis - Robert Brown-002
 
@@ -81,3 +82,7 @@ Roles in SDLC
 
 The Physics of Game developement
 28. How physics of game develoepement(collision detection, movement, etc.) works in the deeper context of SE - Braeden Adair
+
+
+
+29. Learning levels and showing understanding -- visual presentation on levels of understanding a topic -- Alexander Benton -- 002
